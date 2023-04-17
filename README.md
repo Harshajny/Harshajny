@@ -1,10 +1,5 @@
 # Hi there, I'm Harsha👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/harshajny.harshajny-theme?label=harshajny%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=harshajny.harshajny-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
-
 
 ## I'm a Developer, UI/UX Designer, Web3 Enthusiast, and Student!!
 
@@ -16,20 +11,15 @@
 ### Connect with me:
 [![youtube](./img/youtube-dark.svg)](https://www.youtube.com/@harshajohny1653/featured#gh-dark-mode-only)
 [![youtube](./img/youtube-light.svg)](https://www.youtube.com/@harshajohny1653/featured#gh-light-mode-only)
-
 &nbsp;&nbsp;
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/harshajny#gh-dark-mode-only)
 [![twitter](./img/twitter-light.svg)](https://twitter.com/harshajny#gh-light-mode-only)
-
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/harsha-johny-5ab21b195#gh-dark-mode-only)
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/harsha-johny-5ab21b195#gh-light-mode-only)
-
 &nbsp;&nbsp;
 [![instagram](./img/instagram-dark.svg)](https://www.instagram.com/harshajny/#gh-dark-mode-only)
 [![instagram](./img/instagram-light.svg)](https://www.instagram.com/harshajny/#gh-light-mode-only)
-
-
 
 ### Languages and Tools:
 
