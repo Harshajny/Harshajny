@@ -16,7 +16,7 @@
 [![twitter](./img/twitter-light.svg)](https://twitter.com/harshajny#gh-light-mode-only)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/harsha-johny-5ab21b195#gh-dark-mode-only)
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/harsha-johny-5ab21b195#gh-light-mode-only)
+[![linkedin](./img/linkedin-light.png)](https://linkedin.com/in/harsha-johny-5ab21b195#gh-light-mode-only)
 &nbsp;&nbsp;
 [![instagram](./img/instagram-dark.svg)](https://www.instagram.com/harshajny/#gh-dark-mode-only)
 [![instagram](./img/instagram-light.svg)](https://www.instagram.com/harshajny/#gh-light-mode-only)
