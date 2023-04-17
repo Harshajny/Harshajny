@@ -16,21 +16,18 @@
 ⚡ Fun fact: I am a keyboardist, a dancer and a singer.
 
 ### Connect with me:
+[![youtube-light](./img/youtube-light.svg)](https://www.youtube.com/@harshajohny1653/featured#gh-light-mode-only)
+[![youtube-dark](./img/youtube-dark.svg)](https://www.youtube.com/@harshajohny1653/featured#gh-dark-mode-only)
+
  
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/harshajny#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/harshajny#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/harsha-johny-5ab21b195#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/harsha-johny-5ab21b195#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://www.instagram.com/harshajny/#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/harshajny/#gh-dark-mode-only)
 
 
 <br />
