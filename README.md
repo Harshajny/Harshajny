@@ -1,7 +1,7 @@
 # Hi there, I'm Harsha👋 
 
 
-## I'm a Developer, UI/UX Designer, Web3 Enthusiast, and Student!!
+## I'm a Developer, UI/UX Designer, Web3 Enthusiast, and a Student!!
 
 - 🌱 I’m exploring lates technologies and improving my skills
 - 👯 I’m looking to collaborate with developers
