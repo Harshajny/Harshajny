@@ -5,7 +5,6 @@
 
 - 🌱 I’m exploring latest technologies and improving my skills
 - 👯 I’m looking to collaborate with developers
-- 🥅 2023 Goal: Learn more about web3 and contribute to more open source projects.
 - ⚡ Fun fact: I am a keyboardist, a dancer and a singer.
 
 ### Connect with me:
