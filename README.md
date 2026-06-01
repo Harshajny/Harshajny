@@ -1,17 +1,22 @@
 ## Full Stack Developer • React • Python • AI
 
 ---
-
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harshajny&theme=dark&hide_border=true&show_icons=true"
-  />
-  <img
-    height="180em"
-    src="https://streak-stats.demolab.com?user=harshajny&theme=dark&hide_border=true"
-  />
+  <a href="https://github.com/harshajny">
+    <img
+      src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harshajny&theme=dark&hide_border=true&show_icons=true"
+      width="49%"
+    />
+  </a>
+  <a href="https://github.com/harshajny">
+    <img
+      src="https://streak-stats.demolab.com?user=harshajny&theme=dark&hide_border=true"
+      width="49%"
+    />
+  </a>
 </p>
+====
+ 
 
 <p align="center">
   <a href="https://leetcode.com/u/harshajny/">
