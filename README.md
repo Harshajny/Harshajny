@@ -1,51 +1,30 @@
-# Hi there, I'm Harsha👋 
+# Harsha👋🏻
 
+Full Stack Developer • React • Python • AI
+---
 
-## I'm a Fullstack Developer!
-
-- 🌱 I’m exploring latest technologies and improving my skills
-- 👯 I’m looking to collaborate with developers
-- ⚡ Fun fact: I am a keyboardist, a dancer and a singer.
-
-### Connect with me:
-[![youtube](./img/youtube-dark.svg)](https://www.youtube.com/@harshajohny1653/featured#gh-dark-mode-only)
-[![youtube](./img/youtube-light.svg)](https://www.youtube.com/@harshajohny1653/featured#gh-light-mode-only)
-&nbsp;&nbsp;
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/harshajny#gh-dark-mode-only)
-[![twitter](./img/twitter-light.svg)](https://twitter.com/harshajny#gh-light-mode-only)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/harsha-johny-5ab21b195#gh-dark-mode-only)
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/harsha-johny-5ab21b195#gh-light-mode-only)
-&nbsp;&nbsp;
-[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/harshajny/#gh-dark-mode-only)
-[![instagram](./img/instagram-light.svg)](https://www.instagram.com/harshajny/#gh-light-mode-only)
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github]
- 
-<br />
-<br />
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
+  <tr>
+    <td align="center" width="38%">
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harshajny&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="38%">
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=harshajny&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+    </td>
+    <td align="center" width="24%">
+      <a href="https://leetcode.com/u/harshajny/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-Solved_20-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1A1A&logoPosition=top" alt="LeetCode Solved" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+| Core & Frontend | Backend & Databases | Cloud & Tools |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,html,css" alt="Frontend Stack" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,supabase,mysql" alt="Backend Stack" /> | <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,postman" alt="Tools & DevOps" /> |
 
-  <img align="left" alt="Harshajny's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshajny&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[twitter]: https://twitter.com/harshajny
-[youtube]: https://www.youtube.com/@harshajohny1653/featured
-[instagram]: https://www.instagram.com/harshajny/
-[linkedin]: https://linkedin.com/in/harsha-johny-5ab21b195
-[github]: https://github.com/Harshajny
- 
+</div>
